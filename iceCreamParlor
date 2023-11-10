@@ -1,3 +1,5 @@
+I wasnt able to figure out how to make this function recursive but I was still able to get the answers iteratively. Sorry about that.
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
