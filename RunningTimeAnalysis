@@ -1,0 +1,2 @@
+The space complexity of the Running Time of Algorithms function is O(1) because the spece needed stays constant with every input. The time complexity would be O(n^2) because that is the worst case for the function
+and the nested while loop is searching through each value of the array, making it act similarly to a for loop within a for loop.
